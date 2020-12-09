@@ -1,3 +1,5 @@
+*These build scripts now live in the `daq-release` package at https://github.com/DUNE-DAQ/daq-release/tree/develop/scripts/cetbuildtools_scripts*
+
 # appfwk-externals
 Code to build external packages for the [DUNE DAQ application framework](https://github.com/DUNE-DAQ/appfwk). This is designed for use on systems with CVMFS mounted, so only packages not available there are built. The current list of packages is:
 
